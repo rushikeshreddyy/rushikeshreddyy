@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Rushikesh Reddy Yadavelli]
+# Hi there! 👋 I'm Rushikesh Reddy Yadavelli
 
 ## 🚀 About Me  
 I'm a Computer Science graduate student at the University of Central Missouri, passionate about building scalable and efficient web applications. I enjoy solving challenging problems and have a deep interest in software engineering, software development, and leveraging technology to create innovative solutions
@@ -34,6 +34,9 @@ I'm a Computer Science graduate student at the University of Central Missouri, p
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+# 🏏 Personal Interests  
+Apart from coding, I enjoy playing **badminton** and **cricket**. I love the strategic aspect of these sports, and they help me stay active and competitive. Whether it's a fast-paced badminton rally or a thrilling cricket match, I always look forward to playing!  
 
 ## 📊 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushikeshreddyy&show_icons=true&theme=radical)  
